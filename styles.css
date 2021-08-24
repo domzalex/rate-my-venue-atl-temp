@@ -1,0 +1,50 @@
+*, *::before, *::after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f9f1f1;
+    height: 100vh;
+}
+
+nav {
+    height: 100px;
+    background-color: rgb(242,227,227);
+}
+
+.main-container {
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 400px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+ul, p {
+    margin: 0px 25px;
+    list-style: square;
+    font-size: 1.3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    margin: 20px;
+}
+
+img {
+    position: absolute;
+    width: 70%;
+    height: 70%;
+    z-index: -1;
+    mix-blend-mode: overlay;
+}
