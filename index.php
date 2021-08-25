@@ -13,7 +13,7 @@
     </nav>
     <div class="main-container">
         <h1>'Rate My Venue' is Under Construction</h1>
-        <p>If you would like to submit a venue review to help populate the website, please the following to <a href="mailto:admin@theculdesac.club">this email</a>: <ul>
+        <p>If you would like to submit a venue review to help populate the website, please send the following to <a href="mailto:admin@theculdesac.club">this email</a>: <ul>
             <li>the venue name</li>
             <li>a brief summary of your experience</li>
             <li>and whether you were a performer or a guest</li>
